@@ -1,4 +1,4 @@
-- Hi, I'm Ali Murtaza, a passionate DevOps Engineer and the Head of DevOps at @HalloTech. 
+- Hi, I'm Ali Murtaza, a passionate DevOps Engineer and the Head of DevOps at @HalloTech 
 - 🌱 I’m currently learning about IT Business Industry along with deep dive in DevOps.
 - 💞️ I’m looking to collaborate on multiple projects.
 - 📫 How to reach me : ali@hllotech.in or ali.opstech@gmail.com
